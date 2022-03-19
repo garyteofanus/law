@@ -63,4 +63,3 @@ type Service interface {
 	updateTask(id int, upd *Task) (*Task, error)
 	deleteTask(id int) error
 }
-
