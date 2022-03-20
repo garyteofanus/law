@@ -204,6 +204,6 @@ type taskResponse struct {
 }
 
 type response struct {
-	Data  interface{} `json:"data,omitempty"`
-	Error interface{} `json:"error,omitempty"`
+	Data  any `json:"data,omitempty"`
+	Error any `json:"error,omitempty"`
 }
