@@ -1,0 +1,7 @@
+go 1.18
+
+use (
+	./Assignments/1
+)
+
+use ./Labs/4
