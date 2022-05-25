@@ -1,3 +1,4 @@
+// +heroku goVersion go1.18
 module assignment-3
 
 go 1.18
