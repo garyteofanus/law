@@ -3,6 +3,9 @@ go 1.18
 use (
 	./Assignments/1
 	./Assignments/3
+	./Assignments/4
 )
 
-use ./Labs/4
+use (
+	./Labs/4
+)

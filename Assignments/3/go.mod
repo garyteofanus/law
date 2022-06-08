@@ -1,4 +1,4 @@
-module assignment-3
+module assignment3
 
 go 1.18
 
